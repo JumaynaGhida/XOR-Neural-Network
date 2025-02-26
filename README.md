@@ -1,4 +1,8 @@
-# XOR Neural Network
+## 👨‍💻 About the Creator  
+
+This project was developed by **Jumayna AbdelHay Ghida**, a **AI student at Delta University**, **Student ID: [4221107]**.
+
+## 📌 Project Overview
 
 This project is a simple neural network implemented in Python using **NumPy** to solve the **XOR problem**, a fundamental challenge in early artificial neural networks.  
 
