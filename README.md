@@ -16,20 +16,8 @@ The XOR problem is a classic example in machine learning that demonstrates the n
 - **Sigmoid activation function** for non-linearity.  
 - **Mean Squared Error (MSE) loss function** for training.  
 
-## 🚀 Running the Code on GitHub Codespaces
+## 🚀 Run on GitHub Codespaces  
 
-You can run this code directly on GitHub without installing anything on your local machine using **GitHub Codespaces**.
+Click the button below to open this project instantly in GitHub Codespaces:  
 
-### 🔹 **Steps:**
-1. **Open the repository** on GitHub.
-2. Click the **"Code"** button (top right of the page).
-3. Go to the **"Codespaces"** tab.
-4. Click **"Create codespace on main"**.
-5. Wait for the development environment to load in your browser.
-6. Once **Codespaces** is open, open the **Terminal** from the top menu or press `Ctrl + Shift + P` and type **"New Terminal"**.
-7. Make sure the required dependencies are installed:
-   ```bash
-   pip install numpy
-8. Run the code with:
-   ```bash
-   python problem-solution.py
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=JumaynaGhida/XOR-Neural-Network)
