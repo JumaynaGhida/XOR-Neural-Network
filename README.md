@@ -27,4 +27,5 @@ You can run this code directly on GitHub without installing anything on your loc
    ```bash
    pip install numpy
 8. Run the code with:
-python problem-solution.py
+   ```bash
+   python problem-solution.py
