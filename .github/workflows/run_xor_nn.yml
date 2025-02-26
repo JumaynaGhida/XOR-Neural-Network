@@ -1,0 +1,27 @@
+name: Run XOR Neural Network
+
+on:  
+  push:  
+    branches: [main]  
+  pull_request:  
+    branches: [main]  
+  workflow_dispatch:  # لتشغيله يدويًا
+
+jobs:  
+  run_xor_nn:  
+    runs-on: ubuntu-latest  
+
+    steps:  
+      - name: Checkout repository  
+        uses: actions/checkout@v3  
+
+      - name: Set up Python  
+        uses: actions/setup-python@v4  
+        with:  
+          python-version: '3.9'  
+
+      - name: Install dependencies  
+        run: pip install numpy  
+
+      - name: Run XOR Neural Network  
+        run: python your_script.py  
