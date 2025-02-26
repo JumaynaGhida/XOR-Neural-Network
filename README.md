@@ -1,6 +1,6 @@
 ## 👨‍💻 About the Creator  
 
-This project was developed by **Jumayna AbdelHay Ghida**, a **AI student at Delta University**, **Student ID: [4221107]**.
+This project was developed by **Jumayna AbdelHay Ghida**, an **AI student at Delta University**, **Student ID: [4221107]**.
 
 ## 📌 Project Overview
 
