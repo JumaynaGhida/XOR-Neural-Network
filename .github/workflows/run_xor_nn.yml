@@ -5,7 +5,7 @@ on:
     branches: [main]  
   pull_request:  
     branches: [main]  
-  workflow_dispatch:  # لتشغيله يدويًا
+  workflow_dispatch:  
 
 jobs:  
   run_xor_nn:  
@@ -24,4 +24,4 @@ jobs:
         run: pip install numpy  
 
       - name: Run XOR Neural Network  
-        run: python your_script.py  
+        run: python problem-solution.py  
